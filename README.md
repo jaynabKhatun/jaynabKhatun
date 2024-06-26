@@ -1,6 +1,6 @@
 ### Hi there 👋, I am JAYNAB
 #### Junior Front-End Developers
-![Junior Front-End Developers](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/449146188_1689502028123066_144577809461466743_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHOYjCB9UWHcfzlvMlXgxsWWFw-e3g0nVFYXD57eDSdUY4DLM5VCdQwYlBY04_WgGcP4a-usD9p-4oxHcbmHafw&_nc_ohc=yHlSM1XW3SIQ7kNvgHKkxrI&_nc_ht=scontent.fdac5-1.fna&oh=00_AYAkTfAK2XwIkna-6a6hYcQeuBrgdrzJ_E7JdgcH7ydPKw&oe=66825013)
+![Junior Front-End Developers](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/449290161_1689507971455805_6680090094003467801_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGEAt8K0tuLSbDCeoAdehynww_7uNwdQC_DD_u43B1AL2NzRv5wPKmKiF8dbIVasubi5EWsVaPn96TYsPmeXY4l&_nc_ohc=3HqKmAmyQS8Q7kNvgELSNUD&_nc_ht=scontent.fdac5-1.fna&oh=00_AYBOiGecCaAidt0H5oxMUiJ4oXx5jOR6hQjsKNv3cSkSoQ&oe=66824106)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaynabkhatun&label=Profile%20views&color=0e75b6&style=flat" alt="jaynabkhatun" /> </p>
