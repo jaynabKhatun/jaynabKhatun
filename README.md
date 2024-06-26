@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jaynab Khatun</h1>
-<h3 align="center">I'm a web developer specializing in HTML, CSS, Node.js, React.js, MongoDB, and Next.js. She is passionate about building dynamic and responsive web applications while continuously learning and improving her skills in modern web technologies.</h3>
+### Hi there 👋, I am JAYNAB
+#### Junior Front-End Developers
+![Junior Front-End Developers](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/449146188_1689502028123066_144577809461466743_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHOYjCB9UWHcfzlvMlXgxsWWFw-e3g0nVFYXD57eDSdUY4DLM5VCdQwYlBY04_WgGcP4a-usD9p-4oxHcbmHafw&_nc_ohc=yHlSM1XW3SIQ7kNvgHKkxrI&_nc_ht=scontent.fdac5-1.fna&oh=00_AYAkTfAK2XwIkna-6a6hYcQeuBrgdrzJ_E7JdgcH7ydPKw&oe=66825013)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaynabkhatun&label=Profile%20views&color=0e75b6&style=flat" alt="jaynabkhatun" /> </p>
 
