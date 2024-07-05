@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Next Js**
 - 💬 Ask me about **Html , Css ,MongoDB , Express Js, Node js,Tailwind**
 - 📫 How to reach me **jaynab1299@gmail.com**
-- ✍️ Know about my more with my blog **https://jaynabwebdev.hashnode.dev**
+- ✍️ Want to learn more about web development? Visit my blog for more in-depth articles: Jaynab's Web Development Blog
 - 📄 Know about my experiences **https://github.com/jaynabKhatun/Jaynab-Resume-LaTex/blob/main/jaynab-khatun.pdf**
 - ⚡ Fun fact **Did you know? The term "bug" to describe a software glitch dates back to 1947 when a real moth caused a malfunction in the Harvard Mark II computer. The moth was removed and taped to the logbook, and the term "debugging" was born! 🐛**
 
