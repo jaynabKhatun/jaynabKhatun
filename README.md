@@ -13,7 +13,6 @@
 - ✍️ Want to learn more about web development? Visit my blog for more in-depth articles:**https://jaynabwebdev.hashnode.dev/**
 - ⚡ Fun fact **Did you know? The term "bug" to describe a software glitch dates back to 1947 when a real moth caused a malfunction in the Harvard Mark II computer. The moth was removed and taped to the logbook, and the term "debugging" was born! 🐛**
 
-- \includegraphics[width=3cm]{jaynab-khatun.jpg}
 
 <div> <a href="https://twitter.com/anifreelancer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/jaynabKhatun" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
